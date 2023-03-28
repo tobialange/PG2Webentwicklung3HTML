@@ -1,0 +1,72 @@
+body {
+    background-color: #f6f6f6;
+}
+
+h2 {
+    background-color: #87CEEB;
+    #logo{align: right}
+}
+
+h1 {
+    color: #efa800;
+    margin-bottom: 1em;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 200px;
+    padding: 1em;
+}
+
+#logo {
+    float: right;
+    padding: 0; 
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr, th, td {
+    border: solid 1px black;
+    padding: 1em;
+}
+
+.rechts {
+    text-align: right;
+}
+
+.begrussung {
+    border-bottom: solid 1px black;
+    padding-bottom: 8em;
+}
+
+#kontakt {
+    fload: right;
+}
+
+.nav {
+    overflow: hidden;
+    background-color: #f6f6f6;
+    font-family: Arial;
+      }
+
+
+.nav button {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+      }
